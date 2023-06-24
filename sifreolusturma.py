@@ -1,10 +1,4 @@
-#Sifre olsturulmasi için ilk önce yapılış sıralamasını yapmamız lazım.
-#1*random kütüphanesi kullanilacak.                                                 yapıldı.
-#2*sifre uzunlugu secilecek                                                         yapıldı.
-#3*sifre adeti secilecek                                                            yapıldı.
-#4*rastgele sifreler gösterilecek.                                                  yapıldı.
-
-
+#Sifre Olusturma
 import random
 harfvesekil = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()>£#$½]}\|[{"           #oluşturulmasını istediğimiz harf ve işaretleri oluşturduk.
  
